@@ -1,0 +1,16 @@
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.exe
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.deps.json
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.runtimeconfig.json
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.runtimeconfig.dev.json
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.dll
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\ref\WakfuCalc.dll
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\bin\Release\net5.0\WakfuCalc.pdb
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.csproj.AssemblyReference.cache
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.AssemblyInfoInputs.cache
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.AssemblyInfo.cs
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.csproj.CoreCompileInputs.cache
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.dll
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\ref\WakfuCalc.dll
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.pdb
+Y:\Wakfu Stuff\Tools\WakfuCalc\WakfuCalc\obj\Release\net5.0\WakfuCalc.genruntimeconfig.cache

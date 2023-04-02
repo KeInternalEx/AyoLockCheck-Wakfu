@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakfuCalc", "WakfuCalc\WakfuCalc.csproj", "{694ADE31-D58D-413E-9226-2F7A49BAC941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694ADE31-D58D-413E-9226-2F7A49BAC941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694ADE31-D58D-413E-9226-2F7A49BAC941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694ADE31-D58D-413E-9226-2F7A49BAC941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694ADE31-D58D-413E-9226-2F7A49BAC941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E86F7F-316A-48AB-BA7D-4ED10FD800AC}
+	EndGlobalSection
+EndGlobal
